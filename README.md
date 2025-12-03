@@ -1,2 +1,4 @@
 # MEYER_WEB
-IT Consulting Firm really?
+IT Consulting Firm
+
+Web development for client prospecting
